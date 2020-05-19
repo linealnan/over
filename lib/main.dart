@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-//import 'package:mic_stream/mic_stream.dart';
+import 'package:mic_stream/mic_stream.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
